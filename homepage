@@ -6,10 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-
-    <p> Bye </p>
-
     <p> Hi </p>
+   <p> Bye </p>
 
 </body>
 </html>
